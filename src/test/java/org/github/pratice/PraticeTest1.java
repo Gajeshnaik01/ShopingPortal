@@ -20,10 +20,15 @@ public class PraticeTest1 {
 		System.out.println("password --> "+pwd);
 		//Mani changed
 
+
 //arup change1
+
+
 
 //arup change
 //gajesh changed
+		//gayatri changes
+//arup 123 chamnge
 
 
 		
@@ -36,6 +41,7 @@ public class PraticeTest1 {
 		String url=System.getProperty("url");
 		System.out.println(browser);
 		System.out.println(url);
+		System.out.println("hi shaan");
 	}
 	
 	
