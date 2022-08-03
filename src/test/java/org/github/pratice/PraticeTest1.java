@@ -16,12 +16,10 @@ public class PraticeTest1 {
 		System.out.println("URL --> "+url);
 		System.out.println("username --> "+un);
 		System.out.println("password --> "+pwd);
-		//changes by santhruptha
-		
-		//changes by branch by sks
-		//changes by santhruptha at 12 pm
 
-		//changes by arup
+		System.out.println("password --> "+pwd);
+		//Mani changed
+//gajesh changed
 
 		
 	}
