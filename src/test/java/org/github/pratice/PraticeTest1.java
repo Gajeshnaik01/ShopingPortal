@@ -16,7 +16,8 @@ public class PraticeTest1 {
 		System.out.println("URL --> "+url);
 		System.out.println("username --> "+un);
 		System.out.println("password --> "+pwd);
-		
+		System.out.println("password --> "+pwd);
+		//Mani changed
 		
 	}
 	
