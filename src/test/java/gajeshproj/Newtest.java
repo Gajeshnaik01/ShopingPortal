@@ -6,7 +6,7 @@ public class Newtest {
 		// TODO Auto-generated method stub
 		System.out.println("Trial project fo rgit");
 		System.out.println("Trial project fo rgit");
-		System.out.println("Trial project fo rgit");
+		
 	}
 
 }
